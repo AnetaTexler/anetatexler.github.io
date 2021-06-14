@@ -47,7 +47,8 @@ a.my-link:hover {
 
 
 .jumbotron {
-	background-image: url("../img/monica.png");
+	/*background-image: url("../img/monica.png");*/
+	background-image: linear-gradient(135deg, #00a0a0, #00a0a0, #004753, #004753, #000, #000);
   	background-size: cover;
 }
 
